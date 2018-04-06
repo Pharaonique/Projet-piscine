@@ -18,8 +18,9 @@ int main()
 int choix;
 
     std::cout << "Quel reseau voulez-vous afficher ?" << std::endl;
-    std::cout << "Choix 1 : Petit reseau foret. " << std::endl << "Choix 2 : Grand reseau foret. " << std::endl;
-    std::cout << "Choix 3 : Reseau marin. " << std::endl;
+    std::cout << "Choix 1 : Grand reseau marin. " << std::endl;
+    std::cout << "Choix 2 : Reseau marin. " << std::endl;
+    std::cout << "Choix 3 : Petit reseau marin. " << std::endl;
     std::cin >> choix;
 
     std::string b;
@@ -35,14 +36,14 @@ int choix;
 
     else if(choix==2)
     {
-        b = "fichgrand.txt";
+        b = "Mer.txt";
         //b = 30;
         //c = 12;
     }
 
     else if(choix==3)
     {
-        b = "fichmarin.txt";
+        b = "Poisson.txt";
         //b = 16;
         //c = 8;
     }
@@ -59,6 +60,8 @@ int choix;
     /// ( contrairement à des frameworks plus avancés )
     while ( !key[KEY_ESC] )
     {
+
+
     /// Il faut appeler les méthodes d'update des objets qui comportent des widgets
         g.update();
 
