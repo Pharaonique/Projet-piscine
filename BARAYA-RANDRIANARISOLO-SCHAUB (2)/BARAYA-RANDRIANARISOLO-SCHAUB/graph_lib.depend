@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1523103028 source:c:\users\user\pictures\projet tg test (2)\projet tg test\graph.cpp
+	"graph.h"
+	<fstream>
+	"Sous-p.h"
+
+1523103028 c:\users\user\pictures\projet tg test (2)\projet tg test\graph.h
+	"Sous-p.h"
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523100545 c:\users\user\pictures\projet tg test (2)\projet tg test\sous-p.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523103576 c:\users\user\pictures\projet tg test (2)\projet tg test\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523100550 c:\users\user\pictures\projet tg test (2)\projet tg test\grman\grman_couleurs.h
+
+1523100549 c:\users\user\pictures\projet tg test (2)\projet tg test\grman\coords.h
+	<cmath>
+
+1523100550 c:\users\user\pictures\projet tg test (2)\projet tg test\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523100549 source:c:\users\user\pictures\projet tg test (2)\projet tg test\grman\coords.cpp
+	"coords.h"
+
+1523100549 source:c:\users\user\pictures\projet tg test (2)\projet tg test\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523100550 source:c:\users\user\pictures\projet tg test (2)\projet tg test\grman\widget.cpp
+	"widget.h"
+
+1523100673 source:c:\users\user\pictures\projet tg test (2)\projet tg test\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	"Sous-p.h"
+	"graph.h"
+
+1523100545 source:c:\users\user\pictures\projet tg test (2)\projet tg test\sous-p.cpp
+	"Sous-p.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523195443 source:c:\users\user\desktop\projet tg test (2)\projet tg test\graph.cpp
+	"graph.h"
+	<fstream>
+	"Sous-p.h"
+
+1523194462 c:\users\user\desktop\projet tg test (2)\projet tg test\graph.h
+	"Sous-p.h"
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523100545 c:\users\user\desktop\projet tg test (2)\projet tg test\sous-p.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523103576 c:\users\user\desktop\projet tg test (2)\projet tg test\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523100550 c:\users\user\desktop\projet tg test (2)\projet tg test\grman\grman_couleurs.h
+
+1523100549 c:\users\user\desktop\projet tg test (2)\projet tg test\grman\coords.h
+	<cmath>
+
+1523100550 c:\users\user\desktop\projet tg test (2)\projet tg test\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523100549 source:c:\users\user\desktop\projet tg test (2)\projet tg test\grman\coords.cpp
+	"coords.h"
+
+1523100549 source:c:\users\user\desktop\projet tg test (2)\projet tg test\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523100550 source:c:\users\user\desktop\projet tg test (2)\projet tg test\grman\widget.cpp
+	"widget.h"
+
+1523195398 source:c:\users\user\desktop\projet tg test (2)\projet tg test\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	"Sous-p.h"
+	"graph.h"
+
+1523195206 source:c:\users\user\desktop\projet tg test (2)\projet tg test\sous-p.cpp
+	"Sous-p.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+

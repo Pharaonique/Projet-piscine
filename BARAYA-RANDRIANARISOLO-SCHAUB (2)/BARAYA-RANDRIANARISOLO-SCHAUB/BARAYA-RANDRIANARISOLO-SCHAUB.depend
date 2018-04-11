@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1523195443 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\graph.cpp
+	"graph.h"
+	<fstream>
+	"Sous-p.h"
+
+1523194462 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\graph.h
+	"Sous-p.h"
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523100545 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\sous-p.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523103576 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523100550 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman_couleurs.h
+
+1523100549 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\coords.h
+	<cmath>
+
+1523100550 c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523100549 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\coords.cpp
+	"coords.h"
+
+1523100549 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523100550 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\widget.cpp
+	"widget.h"
+
+1523195398 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	"Sous-p.h"
+	"graph.h"
+
+1523195206 source:c:\users\user\desktop\projet tg\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\sous-p.cpp
+	"Sous-p.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523214016 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\graph.cpp
+	"graph.h"
+	<fstream>
+	"Menu.h"
+
+1523213139 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\graph.h
+	"Sous-p.h"
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523100546 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\sous-p.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523103578 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523100552 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman_couleurs.h
+
+1523100550 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\coords.h
+	<cmath>
+
+1523100552 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523100550 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\coords.cpp
+	"coords.h"
+
+1523100550 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523100552 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\grman\widget.cpp
+	"widget.h"
+
+1523213139 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	"Sous-p.h"
+	"graph.h"
+	"Menu.h"
+
+1523195208 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\sous-p.cpp
+	"Sous-p.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523213139 c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\menu.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523214545 source:c:\users\noary\desktop\cours ece ing 2\baraya-randrianarisolo-schaub\baraya-randrianarisolo-schaub\menu.cpp
+	"Menu.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523216658 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\graph.cpp
+	"graph.h"
+	<fstream>
+	"Menu.h"
+
+1523216658 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\graph.h
+	"Sous-p.h"
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523216662 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\sous-p.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523216662 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523216662 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\grman_couleurs.h
+
+1523216662 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\coords.h
+	<cmath>
+
+1523216663 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523216659 c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\menu.h
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
+1523216662 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\coords.cpp
+	"coords.h"
+
+1523216662 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523216662 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\grman\widget.cpp
+	"widget.h"
+
+1523216659 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\main.cpp
+	"grman/grman.h"
+	<iostream>
+	<fstream>
+	"Sous-p.h"
+	"graph.h"
+	"Menu.h"
+
+1523216659 source:c:\users\user\desktop\baraya-randrianarisolo-schaub (2)\baraya-randrianarisolo-schaub\menu.cpp
+	"Menu.h"
+	<iostream>
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<fstream>
+	<vector>
+	"graph.h"
+
